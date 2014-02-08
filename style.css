@@ -1,0 +1,23 @@
+
+#cool-carousel {
+	height: 100%;
+	width: 100%;
+	overflow-x: scroll;
+	overflow-y: hidden;
+}
+
+#cool-carousel ul {
+	height: 100%;
+	margin: 0;
+}
+
+#cool-carousel ul li {
+	float: left;
+	list-style: none;
+	margin: 0;
+	height: 100%;
+}
+
+#cool-carousel img {
+	height: 100%;
+}
